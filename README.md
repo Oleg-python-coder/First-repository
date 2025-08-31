@@ -1,2 +1,2 @@
 # First-repository
-My fir
+My first repository
